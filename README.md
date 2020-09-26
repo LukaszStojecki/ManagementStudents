@@ -1,6 +1,7 @@
 # MyApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.1.
+visit "https://lukaszstojecki.github.io/ManagementStudents/" to run this application
 
 ## Development server
 
